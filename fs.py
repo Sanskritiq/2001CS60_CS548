@@ -5,11 +5,11 @@ import time
 def fs(type, feat, label, feat_val, label_val, opts):
     switcher = {
         # 2020
-        "mpa": "marine_predators_algorithm",
+        "mpa": "MarinePredatorsAlgorithm",
         "gndo": "generalized_nondominated_sorting",
         "sma": "SlimeMouldAlgorithm",
         "eo": "equilibrium_optimization",
-        "mrfo": "manta_ray_foraging_optimization",
+        "mrfo": "MantaRayForagingOptimization",
         # 2019
         'aso': 'atom_search_optimization',
         'hho': 'harris_hawks_optimization',
@@ -32,8 +32,8 @@ def fs(type, feat, label, feat_val, label_val, opts):
         'woa': 'whale_optimization_algorithm',
         # 2015
         'alo': 'ant_lion_optimizer',
-        'hlo': 'human_learning_optimization',
-        'mbo': 'monarch_butterfly_optimization',
+        'hlo': 'HumanLearningOptimization',
+        'mbo': 'MonarchButterflyOptimization',
         'mfo': 'MothFlameOptimization',
         'mvo': 'MultiVerseOptimizer',
         'tsa': 'TreeSeedAlgorithm',
