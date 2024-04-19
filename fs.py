@@ -15,7 +15,7 @@ def fs(type, feat, label, feat_val, label_val, opts):
         'hho': 'harris_hawks_optimization',
         'hgso': 'henry_gas_solubility_optimization',
         'pfa': 'path_finder_algorithm',
-        'pro': 'poor_and_rich_optimization',
+        'pro': 'PoorAndRichOptimization',
         # 2018
         'boa': 'butterfly_optimization_algorithm',
         'epo': 'emperor_penguin_optimizer',
@@ -23,7 +23,7 @@ def fs(type, feat, label, feat_val, label_val, opts):
         # 2017
         'abo': 'artificial_butterfly_optimization',
         'ssa': 'salp_swarm_algorithm',
-        'sbo': 'satin_bowerbird_optimization',
+        'sbo': 'SatinBowerBirdOptimization',
         'wsa': 'WeightedSuperpositionAttraction',
         # 2016
         'ja': 'jaya_algorithm',
@@ -57,7 +57,7 @@ def fs(type, feat, label, feat_val, label_val, opts):
         'pso': 'particle_swarm_optimization',
         'gat': 'genetic_algorithm_tour',
         'ga': 'genetic_algorithm',
-        'sa': 'simulated_annealing',
+        'sa': 'SimulatedAnnealing',
     }
 
     # Get the corresponding module name for the specified type

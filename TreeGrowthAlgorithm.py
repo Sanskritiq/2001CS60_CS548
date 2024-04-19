@@ -1,4 +1,4 @@
-"""2001CS57
+"""
 Output:
     Acc : accuracy of validation model
     FS : feature selection model ( It contains several results )
