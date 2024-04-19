@@ -6,14 +6,14 @@ def fs(type, feat, label, feat_val, label_val, opts):
     switcher = {
         # 2020
         "mpa": "MarinePredatorsAlgorithm",
-        "gndo": "generalized_nondominated_sorting",
+        "gndo": "GeneralizedNormalDistributionOptimization",
         "sma": "SlimeMouldAlgorithm",
         "eo": "equilibrium_optimization",
         "mrfo": "MantaRayForagingOptimization",
         # 2019
         'aso': 'atom_search_optimization',
         'hho': 'harris_hawks_optimization',
-        'hgso': 'henry_gas_solubility_optimization',
+        'hgso': 'HenryGasSolubilityOptimization',
         'pfa': 'PathFinderAlgorithm',
         'pro': 'PoorAndRichOptimization',
         # 2018
@@ -42,7 +42,7 @@ def fs(type, feat, label, feat_val, label_val, opts):
         'sos': 'SymbioticOrganismsSearch',
         # 2012
         'fpa': 'flower_pollination_algorithm',
-        'foa': 'fruit_fly_optimization_algorithm',
+        'foa': 'FruitFlyOptimizationAlgorithm',
         # 2009 - 2010
         'ba': 'bat_algorithm',
         'fa': 'firefly_algorithm',
