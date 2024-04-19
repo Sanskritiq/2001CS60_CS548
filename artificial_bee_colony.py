@@ -128,7 +128,7 @@ def optim(feat, label, feat_val, label_val, opts):
                 Xgb = X[i]
 
         curve[t] = fitG
-        print('\nIteration %d Best (ABC)= %f' % (t, curve[t]))
+        print('Iteration %d Best (ABC)= %f' % (t, curve[t]))
         t += 1
 
     # Select features based on selected index
