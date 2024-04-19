@@ -42,7 +42,7 @@ def crow_search_algorithm(feat, label, feat_val, label_val, opts):
 
     curve = np.zeros(max_Iter)
     curve[0] = fitG
-    t = 1
+    t = 0
 
     # Iteration
     while t < max_Iter:
