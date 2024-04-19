@@ -17,7 +17,7 @@ def fs(type, feat, label, feat_val, label_val, opts):
         'pfa': 'PathFinderAlgorithm',
         'pro': 'PoorAndRichOptimization',
         # 2018
-        'boa': 'butterfly_optimization_algorithm',
+        'boa': 'ButterflyOptimizationAlgorithm',
         'epo': 'emperor_penguin_optimizer',
         'tga': 'TreeGrowthAlgorithm',
         # 2017
