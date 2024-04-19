@@ -1,3 +1,18 @@
+"""
+Output:
+    Acc : accuracy of validation model
+    FS : feature selection model ( It contains several results )    
+        sf : index of selected features
+        ff : selected features
+        nf : number of selected features
+        c : convergence curve
+        t : computational time (s)
+
+[2019]-"Atom search optimization and its application to solve a hydrogeologic parameter estimation problem"
+
+run with : `python3 runner.py --algo "aso"`
+"""
+
 import numpy as np
 from fitness_function import fitness_function
 

@@ -1,3 +1,18 @@
+"""
+Output:
+    Acc : accuracy of validation model
+    FS : feature selection model ( It contains several results )
+        sf : index of selected features
+        ff : selected features
+        nf : number of selected features
+        c : convergence curve
+        t : computational time (s)
+
+[2018]-"Emperor penguin optimizer: A bio-inspired algorithm for engineering problems"
+
+run with : `python3 runner.py --algo "epo"`
+"""
+
 import numpy as np
 from fitness_function import fitness_function
 

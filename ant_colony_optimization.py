@@ -1,3 +1,18 @@
+"""
+Output:
+    Acc : accuracy of validation model
+    FS : feature selection model ( It contains several results )
+        sf : index of selected features
+        ff : selected features
+        nf : number of selected features
+        c : convergence curve
+        t : computational time (s)
+
+[2019]-"Text feature selection using ant colony optimization"
+
+run with : `python3 runner.py --algo "aco"`
+"""
+
 import numpy as np
 from fitness_function import fitness_function
 
