@@ -7,7 +7,7 @@ def fs(type, feat, label, feat_val, label_val, opts):
         # 2020
         "mpa": "marine_predators_algorithm",
         "gndo": "generalized_nondominated_sorting",
-        "sma": "slime_mould_algorithm",
+        "sma": "SlimeMouldAlgorithm",
         "eo": "equilibrium_optimization",
         "mrfo": "manta_ray_foraging_optimization",
         # 2019
@@ -39,7 +39,7 @@ def fs(type, feat, label, feat_val, label_val, opts):
         'tsa': 'TreeSeedAlgorithm',
         # 2014
         'gwo': 'grey_wolf_optimizer',
-        'sos': 'symbiotic_organsim_search',
+        'sos': 'SymbioticOrganismsSearch',
         # 2012
         'fpa': 'flower_pollination_algorithm',
         'foa': 'fruit_fly_optimization_algorithm',
