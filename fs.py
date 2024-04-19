@@ -14,7 +14,7 @@ def fs(type, feat, label, feat_val, label_val, opts):
         'aso': 'atom_search_optimization',
         'hho': 'harris_hawks_optimization',
         'hgso': 'henry_gas_solubility_optimization',
-        'pfa': 'path_finder_algorithm',
+        'pfa': 'PathFinderAlgorithm',
         'pro': 'PoorAndRichOptimization',
         # 2018
         'boa': 'butterfly_optimization_algorithm',
@@ -34,8 +34,8 @@ def fs(type, feat, label, feat_val, label_val, opts):
         'alo': 'ant_lion_optimizer',
         'hlo': 'human_learning_optimization',
         'mbo': 'monarch_butterfly_optimization',
-        'mfo': 'moth_flame_optimization',
-        'mvo': 'multi_verse_optimizer',
+        'mfo': 'MothFlameOptimization',
+        'mvo': 'MultiVerseOptimizer',
         'tsa': 'TreeSeedAlgorithm',
         # 2014
         'gwo': 'grey_wolf_optimizer',
