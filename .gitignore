@@ -1,2 +1,4 @@
 Sample Code Ready
 *csv
+__pycache__
+.~lock.*
