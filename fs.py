@@ -19,7 +19,7 @@ def fs(type, feat, label, feat_val, label_val, opts):
         # 2018
         'boa': 'butterfly_optimization_algorithm',
         'epo': 'emperor_penguin_optimizer',
-        'tga': 'tree_growth_algorithm',
+        'tga': 'TreeGrowthAlgorithm',
         # 2017
         'abo': 'artificial_butterfly_optimization',
         'ssa': 'salp_swarm_algorithm',

@@ -59,13 +59,11 @@ class FeatureSelection:
         plt.ylabel("Fitness Value")
         plt.title(self.algo + " Convergence")
         plt.grid(True)
+        plt.savefig( "images/" +self.filename + f"_{self.algo}_convergence.png")
         plt.show()
 
-        # save the plot in images folder
-        plt.savefig( self.filename + f"_{self.algo}_convergence.png")
-
     def write_feature_file(self):
-        feature_name = self.filename + f"_{str(self.algo)}_feature.csv"
+        feature_name = "result/"+self.filename + f"_{str(self.algo)}_feature.csv"
         with open(feature_name, "w") as file:
             file.write(
                 "optimization,execution time of optimzier,no of feature selected,selected feature\n"
