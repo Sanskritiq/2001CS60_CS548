@@ -3,7 +3,7 @@ Wireless Networks Academic Group Project
 
 ## Problem Statement
 
-- Given [MatLab code of the feature selection for classification problems](https://github.com/mayank265/Matlab-Wrapper-Feature-Selection-Toolbox)
+- Given: [MatLab code of the feature selection for classification problems](https://github.com/mayank265/Matlab-Wrapper-Feature-Selection-Toolbox)
 - Develop equivalent python code for the feature selection
 
 #### Other Details

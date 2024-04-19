@@ -4,3 +4,5 @@ Sample Code Ready
 /venv/
 venv
 Sample
+__pycache__
+.~lock.*
