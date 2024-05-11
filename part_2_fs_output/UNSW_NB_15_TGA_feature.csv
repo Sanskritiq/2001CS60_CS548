@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+TGA,1102.043401002884,24,"dur,proto,service,state,spkts,dpkts,sbytes,rate,sttl,dttl,dload,sloss,sinpkt,ackdat,smean,dmean,trans_depth,ct_srv_src,ct_dst_ltm,ct_src_dport_ltm,ct_dst_sport_ltm,ct_dst_src_ltm,ct_ftp_cmd,is_sm_ips_ports,"

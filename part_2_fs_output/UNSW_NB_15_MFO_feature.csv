@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+MFO,759.5650055408478,17,"dur,service,sbytes,dbytes,rate,sttl,sload,sloss,dinpkt,djit,swin,tcprtt,smean,dmean,ct_srv_src,ct_state_ttl,ct_ftp_cmd,"

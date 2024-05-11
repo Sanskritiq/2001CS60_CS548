@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+WOA,385.8453359603882,18,"dur,service,spkts,dpkts,sttl,sload,sinpkt,sjit,swin,smean,dmean,trans_depth,ct_srv_src,ct_state_ttl,ct_dst_sport_ltm,ct_dst_src_ltm,is_ftp_login,ct_ftp_cmd,"

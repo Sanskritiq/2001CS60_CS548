@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+GNDO,533.0647730827332,12,"dur,state,dttl,dload,sloss,dloss,swin,smean,dmean,is_ftp_login,ct_flw_http_mthd,ct_srv_dst,"

@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+SSA,397.9852497577667,16,"dur,service,state,sbytes,dbytes,sttl,sload,sinpkt,tcprtt,smean,dmean,ct_srv_src,ct_state_ttl,ct_dst_src_ltm,is_ftp_login,is_sm_ips_ports,"

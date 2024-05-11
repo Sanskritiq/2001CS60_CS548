@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+FA,1668.1309332847595,19,"proto,service,rate,sttl,dload,dloss,dinpkt,dwin,tcprtt,smean,dmean,response_body_len,ct_srv_src,ct_state_ttl,ct_src_dport_ltm,is_ftp_login,ct_ftp_cmd,ct_flw_http_mthd,ct_srv_dst,"

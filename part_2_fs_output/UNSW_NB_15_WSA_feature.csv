@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+WSA,540.3862283229828,20,"state,dpkts,sbytes,rate,sload,dload,sloss,dloss,sinpkt,dinpkt,swin,smean,dmean,trans_depth,ct_dst_ltm,ct_src_dport_ltm,ct_dst_sport_ltm,is_ftp_login,ct_src_ltm,

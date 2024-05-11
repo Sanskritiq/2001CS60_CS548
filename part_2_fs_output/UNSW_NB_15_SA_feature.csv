@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+SA,41.22811436653137,24,"service,state,spkts,dpkts,dbytes,rate,dload,dloss,dinpkt,djit,swin,dwin,tcprtt,ackdat,smean,dmean,response_body_len,ct_srv_src,ct_dst_ltm,ct_dst_sport_ltm,is_ftp_login,ct_src_ltm,ct_srv_dst,is_sm_ips_ports,"

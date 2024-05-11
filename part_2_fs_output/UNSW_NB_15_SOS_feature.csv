@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+SOS,1346.6018664836884,8,"proto,dbytes,rate,dinpkt,ackdat,smean,ct_dst_sport_ltm,ct_src_ltm,"

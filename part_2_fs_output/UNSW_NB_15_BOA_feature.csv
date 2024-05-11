@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+BOA,393.1822028160095,12,"dur,spkts,sinpkt,tcprtt,ackdat,smean,ct_state_ttl,ct_src_dport_ltm,is_ftp_login,ct_ftp_cmd,ct_srv_dst,is_sm_ips_ports,"
